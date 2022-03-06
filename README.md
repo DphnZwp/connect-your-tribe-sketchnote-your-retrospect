@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Sketchnote Retrospective
+Schetsen van STARR reflectie, gedragscriteria en een metafoor.
 
 ## Inhoudsopgave
 
@@ -13,9 +13,11 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+![IMG_1419](https://user-images.githubusercontent.com/69635977/156941632-c08c282e-8f6e-4467-8e3e-40d482b66963.jpg)
+
+![IMG_1418](https://user-images.githubusercontent.com/69635977/156941637-719a9b1d-8c76-483a-b77c-702e3a00e7fc.jpg)
+
+![IMG_1420](https://user-images.githubusercontent.com/69635977/156941642-b28f1d8d-28ea-465a-8c94-66b2ba7307e5.jpg)
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
