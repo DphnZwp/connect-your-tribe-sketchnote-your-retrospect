@@ -13,10 +13,13 @@ Schetsen van STARR reflectie, gedragscriteria en een metafoor.
   * [Licentie](#licentie)
 
 ## Beschrijving
+### Tijdlijn
 ![IMG_1419](https://user-images.githubusercontent.com/69635977/156941632-c08c282e-8f6e-4467-8e3e-40d482b66963.jpg)
 
+### Situatie, activiteit en resultaat
 ![IMG_1418](https://user-images.githubusercontent.com/69635977/156941637-719a9b1d-8c76-483a-b77c-702e3a00e7fc.jpg)
 
+### Gedragscriteria
 ![IMG_1420](https://user-images.githubusercontent.com/69635977/156941642-b28f1d8d-28ea-465a-8c94-66b2ba7307e5.jpg)
 
 ## Kenmerken
